@@ -1,0 +1,4 @@
+store_id,store_location,transactions,quantity,revenue,avg_transaction_value
+8,Hell's Kitchen,50735,71737,236511.17,4.661696462008476
+3,Astoria,50599,70991,232243.91,4.589891302199648
+5,Lower Manhattan,47782,71742,230057.25,4.814726256749403
